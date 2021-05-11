@@ -11,7 +11,7 @@ I mainly code in C/C++ and Python, but I am always learning.
 ## ⚡ Technologies
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
