@@ -1,7 +1,7 @@
 # Hi everyone, this is my github profile :wave:
 
-I'm an embedded software developer from Brazil, who loves open source.
-I mainly code in C/C++ and Python, but I am always learning.
+I'm an embedded software developer from Brazil, who loves new technologies.
+I mainly code in C/C++ and Python, but I am always learning a bit of everything.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-MauricioMendes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engmauriciomendes/)](https://www.linkedin.com/in/engmauriciomendes/)
