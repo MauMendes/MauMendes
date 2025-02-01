@@ -36,4 +36,5 @@ Microcontrolers ST STM32, NXP, Renesas, Silicon Labs
 
 [![MauMendes's GitHub stats](https://github-readme-stats.vercel.app/api?username=MauMendes)](https://github.com/MauMendes/)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MauMendes)
+![Visitor Count](https://api.countapi.xyz/hit/MauMendes/visits?label=Visitors)
+
