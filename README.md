@@ -3,6 +3,8 @@
 I'm an embedded software developer from Brazil, who loves new technologies.
 I mainly code in C/C++ and Python, but I am always learning a bit of everything.
 
+[My Blog here!](https://maumendes.github.io/)
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-MauricioMendes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engmauriciomendes/)](https://www.linkedin.com/in/engmauriciomendes/)
 [![Instagram Badge](https://img.shields.io/badge/-MauMMendes-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/mau.mmendes/)](https://instagram.com/mau.mmendes)
@@ -35,6 +37,4 @@ Microcontrolers ST STM32, NXP, Renesas, Silicon Labs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauMendes&hide=TeX&layout=compact)
 
 [![MauMendes's GitHub stats](https://github-readme-stats.vercel.app/api?username=MauMendes)](https://github.com/MauMendes/)
-
-![Visitor Count](https://api.countapi.xyz/hit/MauMendes/visits?label=Visitors)
 
